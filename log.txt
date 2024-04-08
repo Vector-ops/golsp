@@ -1,0 +1,4 @@
+[golsp(edu)]2024/03/29 16:10:19 main.go:15: Hey, I started!
+[golsp(edu)]2024/03/29 16:10:19 main.go:30: Recieved message with method: initialize
+[golsp(edu)]2024/03/29 16:10:19 main.go:38: Connected to: Neovim 0.9.4
+[golsp(edu)]2024/03/29 16:10:19 main.go:45: Sent the reply
